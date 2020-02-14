@@ -1,3 +1,3 @@
 # Milestones
 
-This repo contains our project milestones.
+This repository contains our project milestones.
