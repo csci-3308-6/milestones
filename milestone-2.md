@@ -92,7 +92,7 @@ User should be able to spend their points to change the color or shape of their 
 
 ## Wireframes and User Stories
 
-#### 1: User is able to sign up and sign in.
+### 1: User is able to sign up and sign in.
 
 ![](./images/sign-in-sign-up.png)
 
@@ -111,7 +111,7 @@ User should be able to spend their points to change the color or shape of their 
   * User is able sign out and sign in.
   * User's data is saved.
 
-#### 2: User is able to create a character.
+### 2: User is able to create a character.
 
 ![](./images/character-creation.png)
 
@@ -128,7 +128,7 @@ User should be able to spend their points to change the color or shape of their 
 * Acceptance Criteria:
   * User is able to modify their character's shape and color.
 
-#### 3: User is able to move their character around.
+### 3: User is able to move their character around.
 
 ![](./images/returning-user.png)
 
@@ -146,8 +146,9 @@ User should be able to spend their points to change the color or shape of their 
   * Front = 2/20
   * Middle = 2/27
 * Acceptance Criteria:
+  * User is able to move their character around without any bugs.
 
-#### 4: User is able to play two casino games.
+### 4: User is able to play two casino games.
 
 ![](./images/game.png)
 
@@ -166,7 +167,7 @@ User should be able to spend their points to change the color or shape of their 
   * No bugs.
   * Able to see the score in-game.
 
-#### 5: The user's data is kept.
+### 5: The user's data is kept.
 
 ![](./images/scoreboard.png)
 
@@ -182,7 +183,7 @@ User should be able to spend their points to change the color or shape of their 
 * Acceptance Criteria:
   * When the user signs back in, every bit of data that was stored is kept.
 
-#### 6: User is able to earn points and spend them at a store to customize their character.
+### 6: User is able to earn points and spend them at a store to customize their character.
 
 ![](./images/shop.png)
 
@@ -201,7 +202,7 @@ User should be able to spend their points to change the color or shape of their 
 
 ## Project Plan
 
-### Order in which things need to be done for the webapp to work as a whole...
+### Order in which things need to be done for the project to work as a whole...
 
 1. Front end.
 2. Movement.
