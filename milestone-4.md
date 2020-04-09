@@ -28,12 +28,28 @@ User should be able to spend their points to change the color or shape of their 
 
 ## Architecture Diagram
 
-We intend to use PostgreSQL for our database management system.
-
-![Database Diagram](../docs/resources/database-diagram.png)
+![Architecture Diagram](./images/architecture-diagram.jpg)
 
 ## Front End Design
 
+These wireframes are old, but they convey the front end design well enough.
+
+![Front End Wireframe 1](./images/front-1.jpg)
+![Front End Wireframe 2](./images/front-2.jpg)
+![Front End Wireframe 3](./images/front-3.jpg)
+
 ## Web Service Design
 
+We intend to use Amazon Web Services. Specifically, we'd like to use AWS Elastic Beanstalk.
+
+**Description From AWS Website:**
+
+> With AWS Elastic Beanstalk, you can quickly deploy and manage applications in the AWS Cloud without worrying about the infrastructure that runs those applications. AWS Elastic Beanstalk reduces management complexity without restricting choice or control. You simply upload your application, and AWS Elastic Beanstalk automatically handles the details of capacity provisioning, load balancing, scaling, and application health monitoring.
+
+From what we understand, all of our data will reside on AWS servers. The data will be passed from the browser to AWS and vice versa.
+
 ## Database Design
+
+We intend to use PostgreSQL for our database management system.
+
+![Database Diagram](./images/database-diagram.png)
