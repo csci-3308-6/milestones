@@ -44,11 +44,15 @@ I worked mostly on the front end. I created the functionality and HTML/CSS desig
 
 I worked on the middle and back layer. I was involved in dealing with moving data to and from the database, and also did some work editing SQL tables. This also involved editing file paths for buttons and form tags in the ejs files to make everything link up correctly. I also did some work with UI elements in the ejs and JavaScript files, such as displaying certain statistics in the blackjack game. I worked on getting the sign up and character customization pages to work and put user data into the database. This involved writing queries and get/post requests. I also worked on fetching user data to display the right avatar in the game room.
 
-For some reason my commits were not registered under my GitHub username (Infam) and instead under my real name. For this reason I don’t have any statistics. However, I do have commits in both repositories that I have screenshotted below:
+For some reason my commits were not registered under my GitHub username (Infam) and instead under my real name. This seemed to be because I signed in to my Github using my username and not my email. For this reason I don’t have any statistics. However, I do have commits in both repositories that I have screenshotted below:
 
 ![retrio-games Repository Commits](./images/retrio-games.png)
 
 ![code Repository Commits](./images/code.png)
+
+![Charles Code Repository Commits](./images/CommitProof1.png)
+
+![Charles Code Repository Commits](./images/CommitProof.png)
 
 ## Deployment
 
