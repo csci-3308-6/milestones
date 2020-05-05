@@ -50,9 +50,9 @@ For some reason my commits were not registered under my GitHub username (Infam) 
 
 ![code Repository Commits](./images/code.png)
 
-![Charles Code Repository Commits](./images/CommitProof1.png)
+![Charles Code Repository Commits](./images/CommitProof2.png)
 
-![Charles Code Repository Commits](./images/CommitProof.png)
+![Charles Code Repository Commits](./images/CommitProof3.png)
 
 ## Deployment
 
